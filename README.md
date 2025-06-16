@@ -1,4 +1,4 @@
-# 📦 Backend REST API
+# 📦 Backend REST API Quản lý User
 
 REST API xây dựng với Node.js và Express, hỗ trợ quản lý dữ liệu MongoDB, xác thực JWT, upload ảnh qua Cloudinary, và sử dụng các middleware phổ biến cho bảo mật và tiện ích.
 
